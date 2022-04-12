@@ -1,0 +1,217 @@
+Post code,ID Type,Email,Location,Numer of Devices,Age,Crypto Use,ATM use,Declared Use,Declared Turnover,Actual Use,Actual Turnover,Months Active,Fraud Confirmed,AgeRange,TurnoverDiffStatus,TurnoverDiff,AccUseDiff,EmailDomain,Cluster
+W1,Passport ,jbrekke@gmail.com,UK ,3,18,YES,NO,Day to date,20,Day to date,20,12,NO,<30,Same,0,No,gmail.com,0
+W2,Passport ,sid23@verizon.net,Europe ,3,19,YES,NO,Day to date,20,Day to date,30,3,NO,<30,High,10,No,verizon.net,1
+W3,Passport ,wstark@mac.com,Other,3,20,YES,NO,Day to date,20,Day to date,40,3,NO,<30,High,20,No,mac.com,1
+W4,Passport ,haven.gottlieb@comcast.net,High Risk Coutry,1,18,YES,NO,Day to date,20,ATM,20,3,YES,<30,Same,0,Yes,comcast.net,0
+W5,ID Card,qheidenreich@msn.com,High Risk Coutry,1,18,NO,NO,Day to date,30,ATM,70,2,YES,<30,High,40,Yes,msn.com,1
+W6,ID Card,nconn@yahoo.ca,High Risk Coutry,3,18,NO,YES,Day to date,40,ATM,100,2,YES,<30,High,60,Yes,yahoo.ca,1
+W7,ID Card,amos07@me.com,High Risk Coutry,2,31,NO,YES,ATM,20,ATM,20,2,NO,30-40,Same,0,No,me.com,0
+W8,Residence permit ,osinski.jeffery@icloud.com,High Risk Coutry,3,32,NO,YES,ATM,70,Friends and Family,20,2,NO,30-40,Low,50,Yes,icloud.com,2
+W9,Residence permit ,nitzsche.emerson@mac.com,Europe ,2,31,NO,YES,ATM,100,Receiving and Withdrawing,20,6,NO,30-40,Low,80,Yes,mac.com,2
+W10,Driving licence Full,bbahringer@live.com,Other,1,25,NO,YES,ATM,20,ATM,20,10,NO,<30,Same,0,No,live.com,0
+W11,Driving licence Full,dquigley@gmail.it,UK ,3,31,NO,YES,Friends and Family,20,ATM,30,6,NO,30-40,High,10,Yes,gmail.it,1
+W12,Driving licence Full,olen.boyle@sbcglobal.net,Europe ,1,60,YES,YES,Receiving and Withdrawing,20,ATM,40,6,NO,50-60,High,20,Yes,sbcglobal.net,1
+W13,Driving licence Provisional,simonis.darius@yahoo.com,Other,2,75,YES,YES,Receiving and Withdrawing,20,Friends and Family,20,7,NO,70+,Same,0,Yes,yahoo.com,0
+W14,Driving licence Provisional,kterry@icloud.com,High Risk Coutry,5,18,YES,YES,Receiving and Withdrawing,30,Receiving and Withdrawing,70,6,YES,<30,High,40,No,icloud.com,1
+W15,Driving licence Provisional,stokes.gene@comcast.net,High Risk Coutry,5,18,YES,YES,Receiving and Withdrawing,40,ATM,100,6,YES,<30,High,60,Yes,comcast.net,1
+W16,Driving licence Provisional,torphy.florencio@hotmail.com,UK ,6,31,YES,YES,Receiving and Withdrawing,20,ATM,60,12,YES,30-40,High,40,Yes,hotmail.com,1
+W17,Driving licence Provisional,schamberger.brionna@live.com,Europe ,2,32,YES,YES,Day to date,70,ATM,60,6,NO,30-40,Low,10,Yes,live.com,2
+W18,Passport ,lynn55@verizon.net,Other,3,31,YES,NO,Day to date,100,Day to date,50,7,NO,30-40,Low,50,No,verizon.net,2
+W19,Passport ,august85@live.com,High Risk Coutry,6,25,YES,NO,Day to date,20,Day to date,40,4,NO,<30,High,20,No,live.com,1
+W20,Passport ,wemmerich@verizon.net,High Risk Coutry,6,31,YES,NO,Day to date,20,Day to date,50,5,YES,30-40,High,30,No,verizon.net,1
+W21,ID Card,rmoen@outlook.com,UK ,1,60,YES,NO,Day to date,20,ATM,20,2,NO,50-60,Same,0,Yes,outlook.com,0
+W22,ID Card,cornell.donnelly@mac.com,UK ,1,75,YES,NO,Day to date,20,ATM,20,2,NO,70+,Same,0,Yes,mac.com,0
+W23,ID Card,nwalter@msn.com,UK ,1,18,YES,NO,ATM,30,ATM,20,3,NO,<30,Low,10,No,msn.com,0
+W24,Residence permit ,brionna39@yahoo.ca,UK ,1,22,NO,NO,ATM,40,ATM,30,2,YES,<30,Low,10,No,yahoo.ca,0
+W25,Residence permit ,katelin.goodwin@me.com,UK ,2,18,NO,YES,ATM,20,Friends and Family,60,3,YES,<30,High,40,Yes,me.com,1
+W26,Driving licence Full,lela.mckenzie@icloud.com,Europe ,5,18,NO,YES,ATM,70,Receiving and Withdrawing,60,3,YES,<30,Low,10,Yes,icloud.com,2
+W27,Driving licence Full,julie.fritsch@mac.com,Europe ,2,22,NO,YES,Friends and Family,100,ATM,50,12,NO,<30,Low,50,Yes,mac.com,2
+W28,Driving licence Full,jerad.flatley@live.com,Europe ,2,22,NO,YES,Receiving and Withdrawing,60,ATM,40,3,NO,<30,Low,20,Yes,live.com,2
+W29,Driving licence Provisional,wintheiser.jamarcus@gmail.it,Other,5,21,NO,YES,Receiving and Withdrawing,60,ATM,50,3,NO,<30,Low,10,Yes,gmail.it,2
+W30,Driving licence Provisional,don48@sbcglobal.net,Other,2,22,NO,YES,Receiving and Withdrawing,50,Friends and Family,20,3,YES,<30,Low,30,Yes,sbcglobal.net,2
+W31,Passport ,koch.percival@yahoo.com,Other,2,21,YES,YES,Receiving and Withdrawing,40,Receiving and Withdrawing,20,2,YES,<30,Low,20,No,yahoo.com,0
+W32,Passport ,keyshawn53@icloud.com,Other,5,21,YES,YES,Receiving and Withdrawing,50,ATM,20,2,YES,<30,Low,30,Yes,icloud.com,2
+W33,Passport ,estell52@comcast.net,Other,3,53,YES,YES,ATM,20,ATM,30,2,YES,50-60,High,10,No,comcast.net,0
+W34,Passport ,ferne41@hotmail.com,Europe ,3,43,YES,NO,ATM,20,ATM,60,2,YES,40-50,High,40,No,hotmail.com,1
+W35,Passport ,welch.rubie@live.com,Europe ,3,28,YES,NO,ATM,20,Day to date,60,6,NO,<30,High,40,Yes,live.com,1
+W36,ID Card,genoveva80@gmail.com,UK ,3,22,YES,NO,ATM,30,Day to date,50,10,NO,<30,High,20,Yes,gmail.com,1
+W1,ID Card,diego63@verizon.net,Europe ,3,22,YES,NO,Friends and Family,60,Day to date,40,6,NO,<30,Low,20,Yes,verizon.net,0
+W2,ID Card,irma13@mac.com,Other,3,25,YES,NO,Receiving and Withdrawing,60,ATM,50,6,NO,<30,Low,10,Yes,mac.com,0
+W3,Residence permit ,block.harrison@comcast.net,High Risk Coutry,3,34,YES,NO,Receiving and Withdrawing,50,ATM,20,7,NO,30-40,Low,30,Yes,comcast.net,0
+W4,Residence permit ,rosario49@msn.com,High Risk Coutry,3,56,NO,NO,Receiving and Withdrawing,40,ATM,20,6,NO,50-60,Low,20,Yes,msn.com,0
+W5,Driving licence Full,chloe.dare@yahoo.ca,UK ,3,35,NO,YES,Receiving and Withdrawing,50,ATM,20,6,NO,30-40,Low,30,Yes,yahoo.ca,2
+W6,Driving licence Full,wdaniel@me.com,Europe ,3,33,NO,YES,Receiving and Withdrawing,20,Friends and Family,30,12,YES,30-40,High,10,Yes,me.com,1
+W7,Driving licence Full,utorphy@icloud.com,Other,3,23,NO,YES,Day to date,20,Receiving and Withdrawing,40,6,NO,<30,High,20,Yes,icloud.com,1
+W8,Driving licence Provisional,joy10@mac.com,High Risk Coutry,3,22,NO,YES,Day to date,20,ATM,20,7,NO,<30,Same,0,Yes,mac.com,0
+W9,Driving licence Provisional,qmorar@live.com,UK ,3,18,NO,YES,Day to date,30,ATM,70,4,NO,<30,High,40,Yes,live.com,1
+W10,Driving licence Provisional,edgar21@gmail.it,Europe ,3,18,NO,YES,Day to date,60,ATM,100,5,YES,<30,High,40,Yes,gmail.it,1
+W11,Driving licence Provisional,kunze.alexandra@sbcglobal.net,Other,3,22,YES,YES,Day to date,60,Friends and Family,20,2,YES,<30,Low,40,Yes,sbcglobal.net,2
+W12,Driving licence Provisional,alexandria56@yahoo.com,High Risk Coutry,3,22,YES,NO,Day to date,50,Receiving and Withdrawing,20,2,NO,<30,Low,30,Yes,yahoo.com,0
+W13,Passport ,ashley.boyle@icloud.com,High Risk Coutry,3,21,YES,NO,ATM,40,ATM,20,3,NO,<30,Low,20,No,icloud.com,0
+W14,Passport ,huels.fidel@comcast.net,UK ,3,22,YES,NO,ATM,50,ATM,20,2,YES,<30,Low,30,No,comcast.net,0
+W15,Passport ,kirlin.christop@hotmail.com,Europe ,3,21,YES,NO,ATM,20,ATM,30,3,NO,<30,High,10,No,hotmail.com,1
+W16,ID Card,wfeeney@live.com,Other,3,21,YES,NO,ATM,20,Day to date,40,3,NO,<30,High,20,Yes,live.com,1
+W17,ID Card,nigel68@verizon.net,High Risk Coutry,3,53,YES,NO,ATM,20,Day to date,20,12,NO,50-60,Same,0,Yes,verizon.net,0
+W18,ID Card,ghegmann@live.com,High Risk Coutry,3,43,NO,NO,ATM,30,Day to date,70,3,YES,40-50,High,40,Yes,live.com,1
+W19,Residence permit ,wjohnson@verizon.net,UK ,3,28,NO,YES,Friends and Family,40,ATM,100,3,NO,<30,High,60,Yes,verizon.net,1
+W20,Residence permit ,agnes61@outlook.com,UK ,3,22,NO,YES,Receiving and Withdrawing,20,ATM,60,3,NO,<30,High,40,Yes,outlook.com,1
+W21,Driving licence Full,daugherty.helena@mac.com,Other,3,22,NO,YES,Receiving and Withdrawing,70,ATM,60,2,NO,<30,Low,10,Yes,mac.com,2
+W22,Driving licence Full,ciara71@msn.com,High Risk Coutry,3,25,NO,YES,Receiving and Withdrawing,100,ATM,50,2,NO,<30,Low,50,Yes,msn.com,2
+W23,Driving licence Full,john05@yahoo.ca,UK ,3,34,NO,NO,Receiving and Withdrawing,20,Friends and Family,40,2,YES,30-40,High,20,Yes,yahoo.ca,1
+W24,Driving licence Provisional,vschowalter@me.com,Europe ,1,56,NO,NO,Receiving and Withdrawing,20,Receiving and Withdrawing,50,2,NO,50-60,High,30,No,me.com,1
+W25,Driving licence Provisional,georgianna75@icloud.com,Other,1,35,YES,NO,Day to date,20,ATM,40,6,NO,30-40,High,20,Yes,icloud.com,1
+W26,Passport ,bmorissette@mac.com,High Risk Coutry,3,33,YES,NO,Day to date,20,ATM,20,10,NO,30-40,Same,0,Yes,mac.com,0
+W27,Passport ,destinee.schinner@live.com,High Risk Coutry,2,18,YES,NO,Day to date,30,ATM,70,6,NO,<30,High,40,Yes,live.com,1
+W28,Passport ,karolann56@gmail.it,UK ,3,22,YES,NO,Day to date,40,Friends and Family,20,6,YES,<30,Low,20,Yes,gmail.it,0
+W29,Passport ,rollin.farrell@sbcglobal.net,Europe ,2,18,NO,YES,Day to date,20,Receiving and Withdrawing,20,7,NO,<30,Same,0,Yes,sbcglobal.net,0
+W30,Passport ,lmorissette@yahoo.com,Other,1,18,NO,YES,Day to date,70,ATM,20,6,YES,<30,Low,50,Yes,yahoo.com,2
+W31,ID Card,maximus37@icloud.com,High Risk Coutry,3,22,NO,YES,ATM,100,ATM,20,6,NO,<30,Low,80,No,icloud.com,2
+W32,ID Card,jorge.corkery@comcast.net,High Risk Coutry,1,22,NO,NO,ATM,60,ATM,30,12,YES,<30,Low,30,No,comcast.net,0
+W33,ID Card,keshawn79@hotmail.com,UK ,2,21,NO,NO,Day to date,60,Day to date,40,6,NO,<30,Low,20,No,hotmail.com,0
+W34,Residence permit ,afton.wilderman@live.com,UK ,5,22,NO,NO,Day to date,50,Day to date,20,7,YES,<30,Low,30,No,live.com,0
+W35,Residence permit ,hettinger.alexanne@gmail.com,Other,5,21,YES,NO,Day to date,40,Day to date,70,4,YES,<30,High,30,No,gmail.com,1
+W36,Driving licence Full,manuel.fay@verizon.net,High Risk Coutry,6,21,YES,NO,Day to date,50,ATM,100,5,YES,<30,High,50,Yes,verizon.net,1
+W1,Driving licence Full,ozieme@mac.com,UK ,2,53,YES,NO,ATM,40,ATM,20,2,NO,50-60,Low,20,No,mac.com,0
+W2,Driving licence Full,lrussel@comcast.net,Europe ,3,43,NO,YES,ATM,20,ATM,20,2,NO,40-50,Same,0,No,comcast.net,0
+W3,Driving licence Provisional,clind@msn.com,Other,6,28,NO,YES,ATM,70,ATM,20,3,NO,<30,Low,50,No,msn.com,2
+W4,Driving licence Provisional,frida26@yahoo.ca,High Risk Coutry,6,22,NO,YES,ATM,100,Friends and Family,20,2,YES,<30,Low,80,Yes,yahoo.ca,2
+W5,Driving licence Provisional,brekke.irving@me.com,High Risk Coutry,3,22,NO,NO,Friends and Family,20,Receiving and Withdrawing,30,3,NO,<30,High,10,Yes,me.com,1
+W6,Driving licence Provisional,pacocha.nasir@icloud.com,UK ,3,25,NO,NO,Receiving and Withdrawing,20,ATM,40,3,YES,<30,High,20,Yes,icloud.com,1
+W7,Driving licence Provisional,ddurgan@mac.com,Europe ,3,34,NO,NO,Receiving and Withdrawing,20,ATM,20,10,NO,30-40,Same,0,Yes,mac.com,0
+W8,Passport ,davis.pink@live.com,Other,1,56,YES,NO,Receiving and Withdrawing,20,ATM,70,10,YES,50-60,High,50,Yes,live.com,1
+W9,Passport ,maribel.fisher@gmail.it,High Risk Coutry,1,35,YES,NO,Receiving and Withdrawing,30,Friends and Family,100,10,YES,30-40,High,70,Yes,gmail.it,1
+W10,Passport ,pouros.lavonne@sbcglobal.net,High Risk Coutry,3,33,YES,NO,Receiving and Withdrawing,40,Receiving and Withdrawing,20,9,YES,30-40,Low,20,No,sbcglobal.net,0
+W11,ID Card,zjohnston@yahoo.com,UK ,2,21,NO,YES,Day to date,20,ATM,20,9,NO,<30,Same,0,Yes,yahoo.com,0
+W12,ID Card,manuela37@icloud.com,UK ,3,21,NO,YES,Day to date,70,ATM,20,9,NO,<30,Low,50,Yes,icloud.com,2
+W13,ID Card,langosh.aidan@comcast.net,Other,2,18,NO,YES,Day to date,100,ATM,20,9,NO,<30,Low,80,Yes,comcast.net,2
+W14,Residence permit ,hoeger.jairo@hotmail.com,High Risk Coutry,1,18,NO,NO,Day to date,60,Day to date,30,9,YES,<30,Low,30,No,hotmail.com,0
+W15,Residence permit ,heber.grady@live.com,UK ,3,19,NO,NO,Day to date,60,Day to date,40,7,NO,<30,Low,20,No,live.com,0
+W16,Driving licence Full,jkilback@verizon.net,Europe ,1,18,NO,NO,Day to date,50,Day to date,20,7,NO,<30,Low,30,No,verizon.net,0
+W17,Driving licence Full,eloy08@live.com,Other,2,35,YES,NO,Day to date,40,ATM,70,3,NO,30-40,High,30,Yes,live.com,1
+W18,Driving licence Full,lowe.hailie@verizon.net,High Risk Coutry,5,33,YES,NO,ATM,50,ATM,100,3,YES,30-40,High,50,No,verizon.net,1
+W19,Driving licence Provisional,block.hortense@outlook.com,High Risk Coutry,5,21,YES,NO,ATM,40,ATM,60,3,YES,<30,High,20,No,outlook.com,1
+W20,Driving licence Provisional,itzel.west@mac.com,UK ,6,21,NO,YES,ATM,20,ATM,60,2,YES,<30,High,40,No,mac.com,1
+W21,Passport ,rempel.kyra@msn.com,Europe ,2,18,NO,YES,ATM,70,Friends and Family,50,7,YES,<30,Low,20,Yes,msn.com,2
+W22,Passport ,amayert@yahoo.ca,Other,3,18,NO,YES,Friends and Family,100,Receiving and Withdrawing,40,1,YES,<30,Low,60,Yes,yahoo.ca,2
+W23,Passport ,bradtke.ceasar@me.com,High Risk Coutry,6,19,NO,NO,Receiving and Withdrawing,20,ATM,50,2,YES,<30,High,30,Yes,me.com,1
+W24,Passport ,eziemann@icloud.com,High Risk Coutry,6,18,NO,NO,Receiving and Withdrawing,20,ATM,20,1,YES,<30,Same,0,Yes,icloud.com,0
+W25,Passport ,ilene23@mac.com,UK ,3,35,NO,NO,Receiving and Withdrawing,20,ATM,20,1,NO,30-40,Same,0,Yes,mac.com,0
+W26,ID Card,june03@live.com,UK ,3,33,YES,NO,Receiving and Withdrawing,20,Friends and Family,20,1,NO,30-40,Same,0,Yes,live.com,0
+W27,ID Card,kuhn.raymond@gmail.it,Other,3,21,YES,NO,Receiving and Withdrawing,30,Receiving and Withdrawing,30,1,YES,<30,Same,0,No,gmail.it,0
+W28,ID Card,qmurray@sbcglobal.net,High Risk Coutry,1,21,YES,NO,Day to date,40,ATM,60,1,NO,<30,High,20,Yes,sbcglobal.net,1
+W29,Residence permit ,alden.beier@yahoo.com,UK ,1,18,NO,YES,Day to date,20,Day to date,60,2,YES,<30,High,40,No,yahoo.com,1
+W30,Residence permit ,aohara@icloud.com,Europe ,3,18,NO,YES,Day to date,70,Day to date,50,7,NO,<30,Low,20,No,icloud.com,2
+W31,Driving licence Full,ethan57@comcast.net,Other,2,19,NO,YES,Day to date,100,Day to date,40,3,YES,<30,Low,60,No,comcast.net,2
+W32,Driving licence Full,berge.jaeden@hotmail.com,High Risk Coutry,3,18,NO,YES,Day to date,60,ATM,50,3,NO,<30,Low,10,Yes,hotmail.com,2
+W33,Driving licence Full,purdy.magali@live.com,High Risk Coutry,2,21,NO,YES,Day to date,60,ATM,20,3,NO,<30,Low,40,Yes,live.com,2
+W34,Driving licence Provisional,jennie.shanahan@gmail.com,UK ,1,21,NO,YES,Day to date,50,ATM,20,2,YES,<30,Low,30,Yes,gmail.com,2
+W35,Driving licence Provisional,johns.judd@verizon.net,Europe ,3,22,YES,YES,ATM,40,ATM,20,7,NO,<30,Low,20,No,verizon.net,0
+W36,Driving licence Provisional,glover.brionna@mac.com,Other,1,21,YES,YES,ATM,50,Friends and Family,30,1,YES,<30,Low,20,Yes,mac.com,2
+W1,Driving licence Provisional,ezequiel.renner@comcast.net,High Risk Coutry,2,27,YES,YES,ATM,40,Receiving and Withdrawing,60,2,YES,<30,High,20,Yes,comcast.net,1
+W2,Driving licence Provisional,imitchell@msn.com,High Risk Coutry,5,25,NO,YES,ATM,20,ATM,60,1,YES,<30,High,40,No,msn.com,1
+W3,Passport ,mcglynn.greyson@yahoo.ca,UK ,5,27,NO,YES,Friends and Family,70,ATM,50,1,NO,<30,Low,20,Yes,yahoo.ca,2
+W4,Passport ,glabadie@me.com,UK ,6,26,NO,YES,Receiving and Withdrawing,100,ATM,40,1,NO,<30,Low,60,Yes,me.com,2
+W5,Passport ,doyle.nayeli@icloud.com,UK ,2,23,NO,NO,Receiving and Withdrawing,20,Friends and Family,50,1,NO,<30,High,30,Yes,icloud.com,1
+W6,ID Card,breana.bode@mac.com,Europe ,3,35,NO,NO,Receiving and Withdrawing,20,Receiving and Withdrawing,20,1,YES,30-40,Same,0,No,mac.com,0
+W7,ID Card,deborah.roberts@live.com,Other,6,25,NO,NO,Receiving and Withdrawing,20,ATM,20,2,YES,<30,Same,0,Yes,live.com,0
+W8,ID Card,koby.wisozk@gmail.it,High Risk Coutry,6,37,YES,NO,Receiving and Withdrawing,20,ATM,20,7,NO,30-40,Same,0,Yes,gmail.it,0
+W9,Residence permit ,claire59@sbcglobal.net,High Risk Coutry,3,18,YES,NO,Day to date,30,ATM,30,3,NO,<30,Same,0,Yes,sbcglobal.net,0
+W10,Residence permit ,cleora.paucek@yahoo.com,UK ,3,21,YES,NO,Day to date,40,Day to date,40,3,NO,<30,Same,0,No,yahoo.com,0
+W11,Driving licence Full,harvey.lilliana@icloud.com,Europe ,3,21,NO,NO,Day to date,20,Day to date,20,3,NO,<30,Same,0,No,icloud.com,0
+W12,Driving licence Full,ashly.hayes@comcast.net,Other,1,22,NO,YES,Day to date,70,Day to date,70,2,YES,<30,Same,0,No,comcast.net,2
+W13,Driving licence Full,jerrod65@hotmail.com,High Risk Coutry,1,21,NO,YES,Day to date,100,ATM,100,7,NO,<30,Same,0,Yes,hotmail.com,2
+W14,Driving licence Provisional,raheem.collier@live.com,High Risk Coutry,3,27,NO,YES,Day to date,60,ATM,20,1,NO,<30,Low,40,Yes,live.com,2
+W15,Driving licence Provisional,kbeer@verizon.net,UK ,2,25,NO,YES,Day to date,60,ATM,20,2,NO,<30,Low,40,Yes,verizon.net,2
+W16,Passport ,dale21@live.com,UK ,3,27,NO,YES,ATM,50,ATM,20,1,NO,<30,Low,30,No,live.com,0
+W17,Passport ,vinnie.bashirian@verizon.net,Other,2,26,NO,YES,ATM,40,Friends and Family,20,1,NO,<30,Low,20,Yes,verizon.net,0
+W18,Passport ,talon.douglas@outlook.com,High Risk Coutry,1,23,NO,YES,ATM,50,Receiving and Withdrawing,30,1,NO,<30,Low,20,Yes,outlook.com,2
+W19,Passport ,turcotte.stefanie@mac.com,UK ,3,35,NO,YES,ATM,30,ATM,40,1,NO,30-40,High,10,No,mac.com,0
+W20,Passport ,issac.graham@msn.com,Europe ,1,25,NO,YES,Friends and Family,30,ATM,20,1,NO,<30,Low,10,Yes,msn.com,0
+W21,ID Card,apurdy@yahoo.ca,Other,2,37,YES,NO,Receiving and Withdrawing,50,ATM,70,2,NO,30-40,High,20,Yes,yahoo.ca,1
+W22,ID Card,jamaal91@me.com,High Risk Coutry,5,18,YES,NO,Receiving and Withdrawing,40,Friends and Family,100,7,NO,<30,High,60,Yes,me.com,1
+W23,ID Card,gleichner.tiffany@icloud.com,High Risk Coutry,5,21,YES,NO,Receiving and Withdrawing,50,Receiving and Withdrawing,60,3,NO,<30,High,10,No,icloud.com,1
+W24,Residence permit ,anais01@mac.com,UK ,6,21,YES,NO,Receiving and Withdrawing,30,ATM,60,3,NO,<30,High,30,Yes,mac.com,1
+W25,Residence permit ,astehr@live.com,Europe ,2,22,NO,NO,Receiving and Withdrawing,30,ATM,50,3,NO,<30,High,20,Yes,live.com,1
+W26,Driving licence Full,cassandre14@gmail.it,Other,3,21,NO,NO,Day to date,50,ATM,40,2,YES,<30,Low,10,Yes,gmail.it,0
+W27,Driving licence Full,zachary.ledner@sbcglobal.net,High Risk Coutry,6,27,NO,NO,Day to date,40,Day to date,50,7,NO,<30,High,10,No,sbcglobal.net,1
+W28,Driving licence Full,hazel.dibbert@yahoo.com,High Risk Coutry,6,25,NO,YES,Day to date,50,Day to date,40,1,NO,<30,Low,10,No,yahoo.com,2
+W29,Driving licence Provisional,sheila.sipes@icloud.com,UK ,2,27,NO,YES,Day to date,30,Day to date,20,2,NO,<30,Low,10,No,icloud.com,0
+W30,Driving licence Provisional,paolo.mclaughlin@comcast.net,UK ,2,26,NO,YES,Day to date,30,ATM,70,1,NO,<30,High,40,Yes,comcast.net,1
+W31,Driving licence Provisional,deckow.mekhi@hotmail.com,Other,2,23,YES,YES,Day to date,20,ATM,20,1,NO,<30,Same,0,Yes,hotmail.com,0
+W32,Driving licence Provisional,anabelle31@live.com,High Risk Coutry,2,35,YES,YES,Day to date,100,ATM,20,1,NO,30-40,Low,80,Yes,live.com,2
+W33,Driving licence Provisional,jessie90@gmail.it,UK ,2,25,NO,YES,ATM,20,ATM,20,1,NO,<30,Same,0,No,gmail.it,0
+W34,Passport ,anika.doyle@sbcglobal.net,Europe ,2,37,NO,YES,ATM,20,Friends and Family,20,1,YES,30-40,Same,0,Yes,sbcglobal.net,0
+W35,Passport ,cayla.stokes@yahoo.com,UK ,4,18,NO,NO,ATM,20,Receiving and Withdrawing,30,2,YES,<30,High,10,Yes,yahoo.com,1
+W36,Passport ,xmcglynn@icloud.com,Europe ,4,21,NO,NO,ATM,20,ATM,40,7,YES,<30,High,20,No,icloud.com,1
+W1,ID Card,fay31@comcast.net,Other,4,21,YES,NO,Friends and Family,30,ATM,20,3,YES,<30,Low,10,Yes,comcast.net,0
+W2,ID Card,brakus.trycia@hotmail.com,High Risk Coutry,4,22,YES,NO,Receiving and Withdrawing,40,ATM,70,3,NO,<30,High,30,Yes,hotmail.com,1
+W3,ID Card,abe44@live.com,High Risk Coutry,4,21,YES,NO,Receiving and Withdrawing,20,Friends and Family,100,3,NO,<30,High,80,Yes,live.com,1
+W4,Residence permit ,dboyer@verizon.net,UK ,1,27,YES,NO,Receiving and Withdrawing,70,Receiving and Withdrawing,60,2,YES,<30,Low,10,No,verizon.net,0
+W5,Residence permit ,theodore.swaniawski@live.com,Europe ,1,25,NO,NO,Receiving and Withdrawing,100,ATM,60,7,NO,<30,Low,40,Yes,live.com,2
+W6,Driving licence Full,jjenkins@verizon.net,Other,1,27,NO,YES,Receiving and Withdrawing,60,ATM,50,1,NO,<30,Low,10,Yes,verizon.net,2
+W7,Driving licence Full,reid.beier@outlook.com,High Risk Coutry,4,26,NO,YES,Day to date,60,ATM,40,2,YES,<30,Low,20,Yes,outlook.com,2
+W8,Driving licence Full,cmccullough@mac.com,High Risk Coutry,1,23,NO,YES,Day to date,50,Day to date,50,1,NO,<30,Same,0,No,mac.com,0
+W9,Driving licence Provisional,klein.kaya@msn.com,UK ,1,35,NO,YES,Day to date,40,Day to date,40,1,NO,30-40,Same,0,No,msn.com,0
+W10,Driving licence Provisional,klein.edison@yahoo.ca,UK ,1,25,NO,NO,Friends and Family,50,Day to date,20,1,YES,<30,Low,30,Yes,yahoo.ca,0
+W11,Passport ,osinski.johan@me.com,Other,1,37,YES,NO,Friends and Family,20,ATM,70,1,NO,30-40,High,50,Yes,me.com,1
+W12,Passport ,osinski.jermey@icloud.com,High Risk Coutry,2,18,YES,NO,Friends and Family,20,ATM,20,1,NO,<30,Same,0,Yes,icloud.com,0
+W13,Passport ,stanton10@mac.com,UK ,2,57,NO,NO,ATM,20,ATM,20,2,YES,50-60,Same,0,No,mac.com,0
+W14,Passport ,jkunze@live.com,Europe ,2,65,NO,NO,ATM,30,ATM,20,7,NO,60-70,Low,10,No,live.com,0
+W15,Passport ,kade68@gmail.it,Other,2,62,NO,NO,Friends and Family,60,Friends and Family,20,3,YES,60-70,Low,40,No,gmail.it,0
+W16,ID Card,emclaughlin@sbcglobal.net,High Risk Coutry,4,61,NO,YES,Receiving and Withdrawing,60,Receiving and Withdrawing,30,3,NO,60-70,Low,30,No,sbcglobal.net,2
+W17,ID Card,swaniawski.ocie@yahoo.com,High Risk Coutry,4,27,YES,YES,Receiving and Withdrawing,50,ATM,40,3,NO,<30,Low,10,Yes,yahoo.com,2
+W18,ID Card,aaliyah81@icloud.com,UK ,4,25,YES,YES,Receiving and Withdrawing,100,ATM,20,2,NO,<30,Low,80,Yes,icloud.com,2
+W19,Residence permit ,smohr@comcast.net,Europe ,4,27,YES,NO,Receiving and Withdrawing,20,ATM,70,7,NO,<30,High,50,Yes,comcast.net,1
+W20,Residence permit ,rosa81@hotmail.com,Other,4,26,YES,NO,Receiving and Withdrawing,20,Friends and Family,100,1,NO,<30,High,80,Yes,hotmail.com,1
+W21,Driving licence Full,adelia.bayer@live.com,High Risk Coutry,1,23,NO,NO,Day to date,20,Receiving and Withdrawing,60,2,NO,<30,High,40,Yes,live.com,1
+W22,Driving licence Full,roderick.kozey@verizon.net,High Risk Coutry,1,35,NO,NO,Day to date,20,ATM,60,1,NO,30-40,High,40,Yes,verizon.net,1
+W23,Driving licence Full,vicky27@live.com,UK ,1,25,NO,NO,ATM,30,ATM,50,1,NO,<30,High,20,No,live.com,1
+W24,Driving licence Provisional,katherine73@verizon.net,UK ,4,37,NO,NO,ATM,40,ATM,40,1,NO,30-40,Same,0,No,verizon.net,0
+W25,Driving licence Provisional,donnelly.stevie@outlook.com,Other,1,18,NO,YES,Friends and Family,20,Day to date,50,1,NO,<30,High,30,Yes,outlook.com,1
+W26,Driving licence Provisional,hstrosin@mac.com,High Risk Coutry,1,57,NO,YES,Receiving and Withdrawing,70,Day to date,40,1,NO,50-60,Low,30,Yes,mac.com,2
+W27,Driving licence Provisional,weber.helmer@msn.com,UK ,1,65,YES,YES,Receiving and Withdrawing,100,Day to date,20,2,NO,60-70,Low,80,Yes,msn.com,2
+W28,Driving licence Provisional,carley72@yahoo.ca,Europe ,1,62,YES,NO,Receiving and Withdrawing,60,ATM,70,7,YES,60-70,High,10,Yes,yahoo.ca,1
+W29,Passport ,wturcotte@me.com,UK ,2,61,NO,NO,Receiving and Withdrawing,60,ATM,20,3,NO,60-70,Low,40,Yes,me.com,0
+W30,Passport ,torphy.cedrick@icloud.com,UK ,2,21,NO,NO,Receiving and Withdrawing,50,ATM,20,3,NO,<30,Low,30,Yes,icloud.com,0
+W31,Passport ,thalia.spinka@mac.com,Other,2,18,NO,NO,Day to date,40,ATM,20,3,NO,<30,Low,20,Yes,mac.com,0
+W32,ID Card,pmorissette@live.com,High Risk Coutry,2,19,NO,NO,Day to date,50,Friends and Family,20,2,NO,<30,Low,30,Yes,live.com,0
+W33,ID Card,dblick@gmail.it,UK ,4,18,YES,NO,ATM,20,Receiving and Withdrawing,30,7,NO,<30,High,10,Yes,gmail.it,1
+W34,ID Card,russel.ezekiel@sbcglobal.net,UK ,4,19,YES,YES,ATM,20,ATM,40,1,NO,<30,High,20,No,sbcglobal.net,1
+W35,Residence permit ,don.ziemann@yahoo.com,UK ,4,19,YES,YES,Friends and Family,20,ATM,20,2,YES,<30,Same,0,Yes,yahoo.com,0
+W36,Residence permit ,sheridan53@icloud.com,UK ,4,21,YES,YES,Receiving and Withdrawing,30,ATM,70,1,NO,<30,High,40,Yes,icloud.com,1
+W1,Driving licence Full,lesch.paul@comcast.net,UK ,4,21,NO,NO,Receiving and Withdrawing,60,Friends and Family,100,1,YES,<30,High,40,Yes,comcast.net,1
+W2,Driving licence Full,aliyah47@hotmail.com,UK ,1,18,NO,NO,Receiving and Withdrawing,60,Receiving and Withdrawing,60,1,NO,<30,Same,0,No,hotmail.com,0
+W3,Driving licence Full,lesley76@live.com,Europe ,1,19,NO,NO,Receiving and Withdrawing,50,ATM,60,1,NO,<30,High,10,Yes,live.com,1
+W4,Driving licence Provisional,heidenreich.cordie@verizon.net,UK ,1,18,NO,NO,Receiving and Withdrawing,100,ATM,50,1,NO,<30,Low,50,Yes,verizon.net,2
+W5,Passport ,xgottlieb@outlook.com,Europe ,4,19,NO,NO,Day to date,20,ATM,40,2,NO,<30,High,20,Yes,outlook.com,1
+W6,Passport ,wuckert.chyna@mac.com,Other,1,19,NO,NO,Day to date,20,Day to date,50,7,NO,<30,High,30,No,mac.com,1
+W7,Passport ,zstoltenberg@msn.com,High Risk Coutry,1,21,YES,YES,ATM,20,Day to date,40,3,YES,<30,High,20,Yes,msn.com,1
+W8,Passport ,nikita.turcotte@yahoo.ca,High Risk Coutry,1,21,YES,YES,ATM,20,Day to date,20,3,YES,<30,Same,0,Yes,yahoo.ca,0
+W9,ID Card,purdy.delilah@me.com,UK ,1,18,NO,YES,Friends and Family,30,ATM,70,3,NO,<30,High,40,Yes,me.com,1
+W10,ID Card,chadrick.mertz@icloud.com,Europe ,1,19,NO,NO,Receiving and Withdrawing,40,ATM,20,2,NO,<30,Low,20,Yes,icloud.com,0
+W11,ID Card,bruen.humberto@mac.com,Other,1,18,NO,NO,Receiving and Withdrawing,20,ATM,20,7,NO,<30,Same,0,Yes,mac.com,0
+W12,Residence permit ,eula.rippin@live.com,High Risk Coutry,3,19,NO,NO,Receiving and Withdrawing,70,ATM,20,1,NO,<30,Low,50,Yes,live.com,2
+W13,Residence permit ,bergnaum.craig@gmail.it,High Risk Coutry,2,19,YES,NO,Receiving and Withdrawing,100,Friends and Family,20,2,NO,<30,Low,80,Yes,gmail.it,2
+W14,Driving licence Full,gustave43@sbcglobal.net,UK ,3,21,YES,NO,Receiving and Withdrawing,60,Receiving and Withdrawing,30,1,NO,<30,Low,30,No,sbcglobal.net,0
+W15,Driving licence Full,ikeebler@yahoo.com,UK ,2,21,YES,NO,Day to date,60,ATM,40,1,NO,<30,Low,20,Yes,yahoo.com,0
+W16,Driving licence Full,yharber@icloud.com,Other,1,18,YES,YES,Day to date,50,ATM,20,1,NO,<30,Low,30,Yes,icloud.com,2
+W17,Driving licence Provisional,vonrueden.gideon@comcast.net,High Risk Coutry,3,19,NO,YES,ATM,40,ATM,70,1,NO,<30,High,30,No,comcast.net,1
+W18,Driving licence Provisional,wschimmel@hotmail.com,UK ,1,18,NO,YES,ATM,50,Friends and Family,100,1,NO,<30,High,50,Yes,hotmail.com,1
+W19,Driving licence Provisional,arnaldo.cormier@comcast.net,Europe ,2,19,NO,YES,Friends and Family,20,Receiving and Withdrawing,60,2,YES,<30,High,40,Yes,comcast.net,1
+W20,Driving licence Provisional,lina13@hotmail.com,Other,5,19,NO,YES,Receiving and Withdrawing,20,ATM,60,9,NO,<30,High,40,Yes,hotmail.com,1
+W21,Driving licence Provisional,zoe.dickens@live.com,High Risk Coutry,5,21,NO,YES,Receiving and Withdrawing,20,Day to date,50,9,NO,<30,High,30,Yes,live.com,1
+W22,Passport ,mnader@verizon.net,High Risk Coutry,6,21,NO,YES,Receiving and Withdrawing,30,Day to date,40,9,NO,<30,High,10,Yes,verizon.net,1
+W23,Passport ,grant.elza@outlook.com,UK ,2,25,YES,YES,Receiving and Withdrawing,60,Day to date,50,9,NO,<30,Low,10,Yes,outlook.com,2
+W24,Passport ,dubuque.bonnie@mac.com,Europe ,3,27,YES,YES,Receiving and Withdrawing,60,ATM,40,9,NO,<30,Low,20,Yes,mac.com,2
+W25,ID Card,raynor.cleta@msn.com,Other,6,26,NO,YES,Day to date,50,ATM,20,7,NO,<30,Low,30,Yes,msn.com,2
+W26,ID Card,harrison.parker@yahoo.ca,Europe ,6,23,NO,YES,Day to date,20,ATM,70,7,NO,<30,High,50,Yes,yahoo.ca,1
+W27,ID Card,gfadel@me.com,UK ,3,35,NO,YES,Friends and Family,20,ATM,20,3,NO,30-40,Same,0,Yes,me.com,0
+W28,Residence permit ,toy.ofelia@icloud.com,Europe ,3,25,NO,NO,Receiving and Withdrawing,20,Friends and Family,20,3,NO,<30,Same,0,Yes,icloud.com,0
+W29,Residence permit ,qdubuque@mac.com,Other,3,37,YES,NO,Receiving and Withdrawing,30,Receiving and Withdrawing,20,3,NO,30-40,Low,10,No,mac.com,0
+W30,Driving licence Full,santina.hauck@live.com,High Risk Coutry,1,18,YES,NO,Receiving and Withdrawing,60,ATM,20,2,NO,<30,Low,40,Yes,live.com,2
+W31,Driving licence Full,ahessel@gmail.it,High Risk Coutry,1,21,YES,NO,Receiving and Withdrawing,60,ATM,30,7,NO,<30,Low,30,Yes,gmail.it,2
+W32,Driving licence Full,elinore.swaniawski@sbcglobal.net,UK ,1,21,YES,NO,Receiving and Withdrawing,50,ATM,40,1,NO,<30,Low,10,Yes,sbcglobal.net,0
+W33,Driving licence Provisional,fheller@yahoo.com,Europe ,1,22,NO,NO,Day to date,20,Friends and Family,20,2,NO,<30,Same,0,Yes,yahoo.com,0
+W34,Driving licence Provisional,predovic.syble@icloud.com,Other,3,21,NO,NO,Day to date,20,Receiving and Withdrawing,70,1,NO,<30,High,50,Yes,icloud.com,1
+W35,Passport ,hahn.vivienne@comcast.net,High Risk Coutry,2,27,NO,YES,ATM,20,ATM,100,1,NO,<30,High,80,No,comcast.net,1
+W36,Passport ,volkman.augustine@hotmail.com,High Risk Coutry,3,25,NO,YES,ATM,30,ATM,60,1,NO,<30,High,30,No,hotmail.com,1
