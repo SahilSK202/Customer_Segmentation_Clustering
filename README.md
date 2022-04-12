@@ -1,7 +1,7 @@
 # Customer_Segmentation_Clustering
 
-<img href="https://github.com/SahilSK202/Customer_Segmentation_Clustering/blob/main/CS1.png"/>
-<img href="https://github.com/SahilSK202/Customer_Segmentation_Clustering/blob/main/CS2.png"/>
+<img src="https://github.com/SahilSK202/Customer_Segmentation_Clustering/blob/main/CS1.png?raw=true">
+<img src="https://github.com/SahilSK202/Customer_Segmentation_Clustering/blob/main/CS2.png?raw=true">
 
 ## Overview
 The Business Operations function at XYZ plays a central role in Operations. Our aim is to
