@@ -1,5 +1,8 @@
 # Customer_Segmentation_Clustering
 
+<img href="https://github.com/SahilSK202/Customer_Segmentation_Clustering/blob/main/CS1.png"/>
+<img href="https://github.com/SahilSK202/Customer_Segmentation_Clustering/blob/main/CS2.png"/>
+
 ## Overview
 The Business Operations function at XYZ plays a central role in Operations. Our aim is to
 create a world-class Operations, which delivers the most reliable customer service
